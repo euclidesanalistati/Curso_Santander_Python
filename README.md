@@ -27,7 +27,7 @@
 
 <h2>Módulo 4</h2>
 
-<li>LIndentação</li>
+<li>Indentação</li>
 <li>if-elif-else</li>
 <li>for(para)</li>
 <li>Whyle(enquanto)</li>
